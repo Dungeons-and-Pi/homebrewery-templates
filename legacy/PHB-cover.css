@@ -3,6 +3,9 @@ Source: https://www.reddit.com/r/homebrewery/comments/o96yk7/cover_creation_temp
 Creator: u/TheLurkerOne
 */
 
+/* suppress detail at bottom of front cover */
+.phb#p1:after { display:none; }
+
 .phb .cover-page-text {
 	height: 100%;
 	left: 0;

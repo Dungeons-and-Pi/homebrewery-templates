@@ -1,0 +1,3 @@
+remote_theme: https://github.com/jeremyboggs/5e
+plugins:
+- jekyll-remote-theme

@@ -1,3 +1,4 @@
+title: "Homebrewery Templates"
 remote_theme: xindong/jekyll-theme-primer
 plugins:
 - jekyll-remote-theme

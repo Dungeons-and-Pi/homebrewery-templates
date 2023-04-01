@@ -1,3 +1,7 @@
 remote_theme: https://github.com/jeremyboggs/5e
 plugins:
 - jekyll-remote-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed

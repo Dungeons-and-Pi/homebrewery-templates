@@ -1,4 +1,4 @@
-# homebrewery-templates
+# Homebrewery Templates
 
 My collection of Homebrewery Templates
 
